@@ -11,7 +11,7 @@
     "formik": "^1.5.7",
     "material-table": "^1.40.1",
     "material-ui": "^0.20.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-flexbox-grid": "^2.1.2",
